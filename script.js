@@ -1,0 +1,1 @@
+console.log("animated navbar with gsap")

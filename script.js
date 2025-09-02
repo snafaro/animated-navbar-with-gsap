@@ -1,1 +1,1 @@
-console.log("animated navbar with gsap")
+const tl = gsap.timeline();
